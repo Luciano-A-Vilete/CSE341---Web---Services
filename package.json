@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Luciano-A-Vilete/CSE341---Web---Services/issues"
   },
+  "dependencies": {
+    "express": "10.9.2"
+  },
   "homepage": "https://github.com/Luciano-A-Vilete/CSE341---Web---Services#readme"
 }
