@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 
 app.get('/lais', lesson1Controller.laisRoute);
 
-app.get('./vilete', lesson1Controller.vileteRoute);
+app.get('/vilete', lesson1Controller.vileteRoute);
 
 const port1 = 3000;
 app.listen(port1, () => {
