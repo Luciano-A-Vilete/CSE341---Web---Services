@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Luciano-A-Vilete/CSE341---Web---Services#readme",
   "description": "Week01 Project",
   "dependencies": {
-    "express": "^4.21.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.14.1"
   }
 }
