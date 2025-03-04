@@ -16,5 +16,8 @@
     "url": "https://github.com/Luciano-A-Vilete/CSE341---Web---Services/issues"
   },
   "homepage": "https://github.com/Luciano-A-Vilete/CSE341---Web---Services#readme",
-  "description": "Week01 Project"
+  "description": "Week01 Project",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
